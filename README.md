@@ -46,3 +46,8 @@ RuntimeError: This is a custom error message
 ```
 
 > Here is an example of using a codeblock for an error that apears in bash.
+
+## References
+
+- [GitHub Flavored Markdown Spec](https://github.github.com/gfm/) <sup>[1]<sup/>
+- [Basic writing and formatting syntax (Github Flavored Markdown)](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) <sup>[2]<sup/>
