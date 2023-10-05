@@ -51,9 +51,13 @@ RuntimeError: This is a custom error message
 
 Github extends Markdown to have a list where you can check off items. <sup>[1]<sup/>
 
+- [x] Finish Step 1
+- [ ] Finish Step 2
+- [x] Finish Step 3
+
 
 ## References
 
-- [GitHub Flavored Markdown Spec](https://github.github.com/gfm/) <sup>[1]<sup/>
-- [Basic writing and formatting syntax (Github Flavored Markdown)](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) <sup>[2]<sup/>
+- [GitHub Flavored Markdown Spec](https://github.github.com/gfm/)
+- [Basic writing and formatting syntax (Github Flavored Markdown)](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 - [GFM - Tasks Lists](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#task-lists) <sup>[1]<sup/>
