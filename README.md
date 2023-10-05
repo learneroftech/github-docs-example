@@ -55,9 +55,21 @@ Github extends Markdown to have a list where you can check off items. <sup>[1]<s
 - [ ] Finish Step 2
 - [x] Finish Step 3
 
+# Step 4 - Use Emojis (Optional)
+
+Github Flavored Markdown(GFM) supports emoji shortcodes.
+Here are some examples:
+
+| Name | Shortcode | Emoji |
+| --- | --- | --- |
+| Cloud | `:cloud:` | :cloud: |
+| Cloud with lightning | `:cloud_with_lightning:` | 🌩️: |
+
+:cloud:
 
 ## References
 
 - [GitHub Flavored Markdown Spec](https://github.github.com/gfm/)
 - [Basic writing and formatting syntax (Github Flavored Markdown)](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 - [GFM - Tasks Lists](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#task-lists) <sup>[1]<sup/>
+- [GFM - Emoji CheatSheet](https://github.com/ikatyang/emoji-cheat-sheet)
