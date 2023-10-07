@@ -31,6 +31,7 @@ puts "The factorial of #{number} is #{result}"
 - It should appear above the tab key, but it may vary based on your keyboard layout.
 - Check out this random image:
 
+
 <img width="500px" src="https://github.com/learneroftech/github-docs-example/assets/145515536/c1163938-ac13-41d6-a804-a892c574559b" />
 
 Good Cloud Engineers use codeblocks for both Code and Erros that appear in the console.
@@ -79,7 +80,7 @@ You can use the following markdown format to create tables:
 Github extends the functionality of Markdown Tables to provide more alignment and table cell formatting options.  [<sup>[2]<sup/>](#external-references)
 
 
-![Photo of the pipe character on our keyboard](assets/Screenshot 2023-09-08 at 6.36.58 PM.png)
+![Photo of the pipe character on our keyboard](assets/Screenshot-2023-09-08-at-6.36.58-PM.png)
 
 ## External References
 
