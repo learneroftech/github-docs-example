@@ -65,7 +65,14 @@ Here are some examples:
 | Cloud | `:cloud:` | :cloud: |
 | Cloud with lightning | `:cloud_with_lightning:` | 🌩️: |
 
-:cloud:
+# Step 5 - how to create a table
+
+```markdown
+| Name | Shortcode | Emoji |
+| --- | --- | --- |
+| Cloud | `:cloud:` | :cloud: |
+| Cloud with lightning | `:cloud_with_lightning:` | 🌩️: |
+```
 
 ## References
 
