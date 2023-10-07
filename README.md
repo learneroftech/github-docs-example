@@ -49,7 +49,7 @@ RuntimeError: This is a custom error message
 
 ## Step 3 - Use Github Flavored Markdown Task Lists
 
-Github extends Markdown to have a list where you can check off items. <sup>[1]<sup/>
+Github extends Markdown to have a list where you can check off items. [<sup>[1]<sup/>](#external-references)
 
 - [x] Finish Step 1
 - [ ] Finish Step 2
@@ -67,16 +67,22 @@ Here are some examples:
 
 # Step 5 - how to create a table
 
-```markdown
+
+You can use the following markdown format to create tables:
+```md
 | Name | Shortcode | Emoji |
 | --- | --- | --- |
 | Cloud | `:cloud:` | :cloud: |
 | Cloud with lightning | `:cloud_with_lightning:` | 🌩️: |
 ```
 
-## References
+Github extends the functionality of Markdown Tables to provide more alignment and table cell formatting options.  [<sup>[2]<sup/>](#external-references)
+
+
+## External References
 
 - [GitHub Flavored Markdown Spec](https://github.github.com/gfm/)
 - [Basic writing and formatting syntax (Github Flavored Markdown)](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 - [GFM - Tasks Lists](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#task-lists) <sup>[1]<sup/>
 - [GFM - Emoji CheatSheet](https://github.com/ikatyang/emoji-cheat-sheet)
+- [GFM - Tables (with extensions)](https://github.github.com/gfm/#tables-extension-) <sup>[2]<sup/>
